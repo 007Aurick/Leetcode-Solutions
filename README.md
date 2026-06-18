@@ -6,7 +6,14 @@ This repository contains my solutions to various LeetCode problems as I practice
 - Arrays + Strings
 - Math / Number Theory
 - Hash Maps (currently learning)
-- More topics coming soon...
+- Linked Lists (coming soon)
+- Stacks and Queues (coming soon)
+- Binary Search (coming soon)
+- Sorting (coming soon)
+- Sliding Window (coming soon)
+- Trees (coming soon)
+- Heaps (coming soon)
+- Graphs (coming soon)
 
 ## 🧠 Goal
 The goal of this repo is to:
