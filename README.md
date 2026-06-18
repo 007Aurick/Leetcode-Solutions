@@ -3,7 +3,7 @@
 This repository contains my solutions to various LeetCode problems as I practice and improve my problem-solving skills in Data Structures and Algorithms.
 
 ## 📌 Focus Areas
-- Arrays
+- Arrays + Strings
 - Math / Number Theory
 - Hash Maps (currently learning)
 - More topics coming soon...
